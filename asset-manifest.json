@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RuslanShyrogorov/react-router-example.git/static/css/main.7acaea2f.css",
-    "main.js": "/RuslanShyrogorov/react-router-example.git/static/js/main.07d3183d.js",
+    "main.css": "/RuslanShyrogorov/react-router-example.git/static/css/main.62b516cb.css",
+    "main.js": "/RuslanShyrogorov/react-router-example.git/static/js/main.aa81b4dd.js",
     "index.html": "/RuslanShyrogorov/react-router-example.git/index.html",
-    "main.7acaea2f.css.map": "/RuslanShyrogorov/react-router-example.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/RuslanShyrogorov/react-router-example.git/static/js/main.07d3183d.js.map"
+    "main.62b516cb.css.map": "/RuslanShyrogorov/react-router-example.git/static/css/main.62b516cb.css.map",
+    "main.aa81b4dd.js.map": "/RuslanShyrogorov/react-router-example.git/static/js/main.aa81b4dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.62b516cb.css",
+    "static/js/main.aa81b4dd.js"
   ]
 }
